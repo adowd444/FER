@@ -1,8 +1,3 @@
-![amazing](./amazingkelly.jpeg)
-
-Opensource deep learning framework [TensorFlow](https://www.tensorflow.org) is used in **Facial Expression Recognition(FER)**. 
-The trained models achieved 65% accuracy in fer2013. If you like this, please give me a star.
-
 #### Dependencies
 
 FER requires:
@@ -18,7 +13,7 @@ To run the demo, just type:
 ```shell
 python3 main.py
 ```
-Then the program will creat a window to display the scene capture by webcamera. You need press <kbd>SPACE</kbd> key to capture face in current frame and recognize the facial expression.
+Then the program will creat a window to display the scene capture by webcamera.
 
 If you just want to run this demo instead of training the model from scaratch, the following content can be skipped.
 

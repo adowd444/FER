@@ -56,7 +56,7 @@ for i in range(1,num_of_instances):
         elif 'PublicTest' in usage:
             y_test.append(emotion)
             x_test.append(pixels)
-    except:
+      except:
 	print("",end="")
 
 #------------------------------

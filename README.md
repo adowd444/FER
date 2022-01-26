@@ -4,5 +4,5 @@ The model is meant to be applied to real-time facial expression recognition, as 
 
 ## Getting Started
 1. Refer to the requirements.txt to install required packages
-2. Download the FER2013, CK+, AffetcNet, and JAFFE datasets
+2. Download the FER2013, CK+, AffectNet, and JAFFE datasets
 3. Use each preprocessing code for each dataset in the datasets folder (this makes the datasets usable for the model)

@@ -2,7 +2,6 @@
 
 ## Downloading Datasets
 *   FER2013 can be downloaded on [Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
-*   CK+ can be downloaded from [CMU](http://www.consortium.ri.cmu.edu/ckagree/)
 *   JAFFE can be downloaded from [zenodo](https://zenodo.org/record/3451524)
 
 ## Format / Directory Structure
@@ -20,4 +19,4 @@ $ ls -1
 ```
 
 ## Preprocessing datasets
-The Jupyter notebooks here can be used to preprocess the datasets into the format our code expects.
+The Python scripts here can be used to preprocess the datasets into the format our code expects.

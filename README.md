@@ -7,4 +7,4 @@ The model is meant to be applied to real-time facial expression recognition, as 
 2. Download the FER2013 and AffectNet datasets
 3. Use each preprocessing code for each dataset in the datasets folder (this makes the datasets usable for the model)
 4. After data is preprocessed, use the main.py script to create the model
-5. Finally, insert model into webcam.py to use real-time facial expression recognition
+5. Finally, insert model into live_webcam.py to use real-time facial expression recognition

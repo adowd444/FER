@@ -1,5 +1,5 @@
 ## Introduction
-This repository is based off a model outlined in the paper here: http://cs230-fer.firebaseapp.com/ <br>. This model has an accuracy of 75.8% which outperforms almost all FER models that are currently published.
+This repository is based off a model outlined in the paper here: http://cs230-fer.firebaseapp.com/ <br> The model used in the paper has an accuracy of 75.8% which outperforms almost all FER models that are currently published.
 The model is meant to be applied to real-time facial expression recognition, as used in this project.
 
 ## Getting Started

@@ -2,7 +2,7 @@
 
 ## Downloading Datasets
 *   FER2013 can be downloaded on [Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
-*   JAFFE can be downloaded from [zenodo](https://zenodo.org/record/3451524)
+*   AffectNet can be downloaded from [AffectNet](http://mohammadmahoor.com/affectnet/)
 
 ## Format / Directory Structure
 Because of the way Keras' flow_from_directory() function works, our code expects all images to live in the following folder structure. However, they can be in any format and resolution, as they will automatically be resized and recolored to fit as input to our models.

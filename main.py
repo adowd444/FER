@@ -14,7 +14,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import load_model
 
 #MUST PREPROCESS DATASET IMAGES BEFORE RUNNING CODE
-EPOCHS = 50
+EPOCHS = 100
 BS = 128
 DROPOUT_RATE = 0.35
 SGD_LEARNING_RATE = 0.01
